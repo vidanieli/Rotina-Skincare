@@ -1,0 +1,122 @@
+[
+  {
+    "nome": "Limpeza Facial",
+    "passo": 1,
+    "quando": "Manhã e Noite",
+    "frequencia": "Diariamente",
+    "como_funciona": "Dissolve e remove as impurezas acumuladas, como poluição, suor, oleosidade e maquiagem. Desobstrui os poros e prepara a pele para absorver melhor os próximos produtos da rotina.",
+    "uso_recomendado": "Aplique na pele úmida, massageie suavemente em movimentos circulares e enxágue com água abundante. Essencial para todos os tipos de pele como o primeiro passo da rotina.",
+    "link": "https://www.google.com/search?q=Gel+de+limpeza+facial&tbm=shop",
+    "tags": [
+      "Limpeza",
+      "Sabonete Facial",
+      "Gel de Limpeza",
+      "Primeiro Passo"
+    ]
+  },
+  {
+    "nome": "Tonificação",
+    "passo": 2,
+    "quando": "Manhã e Noite",
+    "frequencia": "Diariamente",
+    "como_funciona": "Reequilibra o pH da pele que pode ter sido alterado pela limpeza. Ajuda a remover resíduos que o sabonete não conseguiu retirar e pode ter funções adicionais, como acalmar ou hidratar.",
+    "uso_recomendado": "Após a limpeza, aplique com um algodão ou diretamente com as mãos, dando leves batidinhas no rosto. Não é necessário enxaguar. Indicado para complementar a limpeza e preparar a pele.",
+    "link": "https://www.google.com/search?q=Tônico+facial&tbm=shop",
+    "tags": [
+      "Tônico",
+      "pH",
+      "Poros",
+      "Segundo Passo"
+    ]
+  },
+  {
+    "nome": "Tratamento (Séruns)",
+    "passo": 3,
+    "quando": "Manhã e/ou Noite",
+    "frequencia": "Diariamente (conforme o ativo)",
+    "como_funciona": "Veículos de textura leve e alta concentração de ativos. Penetram profundamente na pele para tratar questões específicas como manchas (Vitamina C), desidratação (Ácido Hialurônico) ou sinais da idade (Retinol).",
+    "uso_recomendado": "Aplique algumas gotas no rosto limpo e seco, antes do hidratante. Cada sérum tem uma indicação, então escolha de acordo com a necessidade da sua pele (clarear, hidratar, firmar, etc.).",
+    "link": "https://www.google.com/search?q=Sérum+facial&tbm=shop",
+    "tags": [
+      "Sérum",
+      "Vitamina C",
+      "Ácido Hialurônico",
+      "Tratamento Específico"
+    ]
+  },
+  {
+    "nome": "Creme para Área dos Olhos",
+    "passo": 4,
+    "quando": "Manhã e/ou Noite",
+    "frequencia": "Diariamente",
+    "como_funciona": "Possui formulação específica para a pele fina e sensível ao redor dos olhos. Atua na hidratação, clareamento de olheiras, redução de bolsas e suavização de linhas finas.",
+    "uso_recomendado": "Após os séruns, aplique uma pequena quantidade na pálpebra inferior e superior. Espalhe com o dedo anelar, dando leves batidinhas, sem esfregar. Ideal para quem busca tratar a região dos olhos.",
+    "link": "https://www.google.com/search?q=Creme+para+área+dos+olhos&tbm=shop",
+    "tags": [
+      "Olheiras",
+      "Bolsas",
+      "Linhas Finas",
+      "Cuidado com os Olhos"
+    ]
+  },
+  {
+    "nome": "Hidratação",
+    "passo": 5,
+    "quando": "Manhã e Noite",
+    "frequencia": "Diariamente",
+    "como_funciona": "Repõe a água e os lipídios essenciais da pele, fortalecendo sua barreira de proteção natural. Isso evita a perda de água, o ressecamento e a sensibilidade, mantendo a pele macia e saudável.",
+    "uso_recomendado": "Aplique no rosto todo após os tratamentos. É um passo crucial para todos os tipos de pele, inclusive as oleosas (que devem optar por texturas em gel ou oil-free).",
+    "link": "https://www.google.com/search?q=Hidratante+facial&tbm=shop",
+    "tags": [
+      "Hidratante",
+      "Barreira Cutânea",
+      "Pele Seca",
+      "Pele Oleosa"
+    ]
+  },
+  {
+    "nome": "Proteção Solar",
+    "passo": 6,
+    "quando": "Manhã",
+    "frequencia": "Diariamente",
+    "como_funciona": "Cria uma barreira física ou química que absorve ou reflete a radiação ultravioleta (UVA e UVB) do sol. É o passo mais importante para prevenir o envelhecimento precoce, manchas e o câncer de pele.",
+    "uso_recomendado": "Último passo da rotina de skincare da manhã, antes da maquiagem. Aplique uma camada generosa no rosto, pescoço e orelhas. Reaplicar a cada 2-3 horas em caso de exposição solar contínua.",
+    "link": "https://www.google.com/search?q=Protetor+solar+facial&tbm=shop",
+    "tags": [
+      "Protetor Solar",
+      "FPS",
+      "Raios UV",
+      "Último Passo"
+    ]
+  },
+  {
+    "nome": "Esfoliação",
+    "passo": "Extra (após a limpeza)",
+    "quando": "Noite",
+    "frequencia": "1 a 2 vezes por semana",
+    "como_funciona": "Através de partículas físicas ou ativos químicos (como ácidos), remove as células mortas da camada superficial da pele. Estimula a renovação celular, melhora a textura, o viço e ajuda a desobstruir os poros.",
+    "uso_recomendado": "Faça após a limpeza, com a pele úmida. Massageie delicadamente, sem força, e enxágue bem. Evite usar em peles sensibilizadas ou no mesmo dia que outros ácidos fortes.",
+    "link": "https://www.google.com/search?q=Esfoliante+facial&tbm=shop",
+    "tags": [
+      "Esfoliante",
+      "Renovação Celular",
+      "Poros",
+      "Uso Semanal"
+    ]
+  },
+  {
+    "nome": "Máscaras Faciais",
+    "passo": "Extra (após a limpeza)",
+    "quando": "Manhã ou Noite",
+    "frequencia": "1 a 2 vezes por semana",
+    "como_funciona": "Fornecem uma dose concentrada de ativos para um tratamento intensivo e rápido. Podem ter efeito calmante, detox, de hidratação profunda, controle de oleosidade, entre outros.",
+    "uso_recomendado": "Aplique na pele limpa e deixe agir pelo tempo indicado na embalagem. Use para dar um 'boost' na sua rotina ou em um momento de autocuidado.",
+    "link": "https://www.google.com/search?q=Máscara+facial&tbm=shop",
+    "tags": [
+      "Máscara de Argila",
+      "Sheet Mask",
+      "Tratamento Intensivo",
+      "Autocuidado"
+    ]
+  }
+]
