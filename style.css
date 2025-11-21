@@ -148,20 +148,27 @@ article a:hover {
 }
 
 .footer {
-    position: absolute; /* Posicionamento absoluto em relação ao elemento pai posicionado */
+    position: fixed; /* Fixa o elemento na tela, independente da rolagem */
     bottom: 0; /* Fixa no fundo */
     left: 0; /* Alinha à esquerda */
     width: 100%; /* Largura total */
     color: var(--tertiary-color); /* Cor do texto do rodapé */
     background-color: var(--bg-color); /* Cor de fundo do rodapé */
-    padding: 10px 10px; /* Espaçamento interno */
-    border-top: 1px solid #020202; /* Borda superior */
+    padding: 5px 0px; /* Espaçamento interno */
+    border-top: 1px solid var(--tertiary-color); /* Borda superior sutil */
     font-size: 0.8rem; /* Tamanho da fonte */
+    z-index: 10; /* Garante que o rodapé fique acima de outros elementos */
+    transform: translateY(100%); /* Esconde o rodapé para baixo por padrão */
+    transition: transform 0.3s ease-in-out; /* Adiciona uma transição suave */
+}
+
+.footer.visible {
+    transform: translateY(0); /* Traz o rodapé de volta à sua posição original */
 }
 
 .footer-location {
     color: #e965ee; /* Cor do texto de localização */
-    margin-bottom: 10px; /* Margem inferior */
+    margin-bottom: 20px; /* Margem inferior */
 }
 
 .footer-links {
@@ -169,7 +176,7 @@ article a:hover {
     display: flex; /* Ativa o layout flexbox */
     flex-wrap: wrap; /* Permite que os itens quebrem para a próxima linha */
     justify-content: center; /* Centraliza os links horizontalmente */
-    gap: 15px; /* Espaçamento entre os links */
+    gap: 5px; /* Espaçamento entre os links */
 }
 
 .footer-links a {
