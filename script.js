@@ -71,7 +71,20 @@ function renderizarCards(dados) {
  }
 
 // Quando o conteúdo da página carregar, chama a função para obter os dados.
-document.addEventListener("DOMContentLoaded", carregarDados);
+document.addEventListener("DOMContentLoaded", () => {
+    carregarDados();
+
+    const footer = document.querySelector(".footer");
+    const scrollThreshold = 100; // Distância em pixels para o rodapé aparecer
+
+    window.addEventListener("scroll", () => {
+        if (window.scrollY > scrollThreshold) {
+            footer.classList.add("visible");
+        } else {
+            footer.classList.remove("visible");
+        }
+    });
+});
 
 // Função para limpar a busca e voltar ao estado inicial
 function voltarParaInicio() {
