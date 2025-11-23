@@ -1,6 +1,8 @@
 📖 Sobre o Projeto
 
-Este é um site informativo criado para ajudar pessoas a planejarem e organizarem sua rotina de cuidados com a pele (skincare). Ele apresenta dicas, orientações e estrutura de rotina para tornar o autocuidado mais simples e eficaz.
+O projeto Rotina Skincare é uma aplicação desenvolvida com o objetivo de ajudar usuários a se informar e organizar o cuidado com a pele.
+Com a variedade de produtos (limpeza, hidratação, tratamento e proteção solar) e as diferentes rotinas (matinal e noturna), a aplicação simplifica o processo informando ao usário os produtos certos, como funciona e como usá-los.
+
 
 🚀 Tecnologias Utilizadas
 
